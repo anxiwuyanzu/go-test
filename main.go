@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("dev1")
 	fmt.Println("dev2")
 	fmt.Println("dev2")
+	fmt.Println("dev1")
 }
